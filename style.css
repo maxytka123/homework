@@ -1,0 +1,34 @@
+h2 {
+    color: red;
+}
+.product__image:hover  {
+    opacity: 0.8;
+    
+}
+#product__table {
+    border: solid 1px black;
+}
+nav a {
+    color: rgb(235, 3, 3);
+    text-decoration: none;
+    
+}
+h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow:1px 10px 3px peru;
+}
+body {
+    background: linear-gradient(#585757, #888785);
+    background-repeat: repeat;
+    background-position: 50px;
+}
+.header{
+    background-image: url(https://avatars.mds.yandex.net/get-tycoon/13125728/2a0000018e32b2e751bdab72b193d69bb87b/priority-headline-background), url(https://burobiz-a.akamaihd.net/uploads/images/154990/large_%D0%9C%D0%B0%D0%B3%D0%B0%D0%B71.JPG), linear-gradient(90deg, rgba(229, 243, 226, 0.2), rgb(207, 14, 94));
+    background-position: 0 100%, 100% 0, center;
+    background-repeat: no-repeat;
+    background-size: 1500px, 1450px, cover;
+    margin: 25px 0;
+}
+.form{
+    background: linear-gradient(to right, rgb(219, 215, 215), rgb(80, 80, 59));
+}
